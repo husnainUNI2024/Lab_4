@@ -1,1 +1,2 @@
 cout<< "The Addition of these two numbers are:"<< a + b <<endl;
+cout<<"The Subtraction of these two numbers are:" << a-b <<endl;
